@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\5.02.2024.1473\5.02.2024.1473\bin\Debug\5.02.2024.1473.exe.config
+C:\Users\User\source\repos\5.02.2024.1473\5.02.2024.1473\bin\Debug\5.02.2024.1473.exe
+C:\Users\User\source\repos\5.02.2024.1473\5.02.2024.1473\bin\Debug\5.02.2024.1473.pdb
+C:\Users\User\source\repos\5.02.2024.1473\5.02.2024.1473\obj\Debug\5.02.2024.1473.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\5.02.2024.1473\5.02.2024.1473\obj\Debug\5.02.2024.1473.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\5.02.2024.1473\5.02.2024.1473\obj\Debug\_5._02._2024._1473.Form1.resources
+C:\Users\User\source\repos\5.02.2024.1473\5.02.2024.1473\obj\Debug\_5._02._2024._1473.Properties.Resources.resources
+C:\Users\User\source\repos\5.02.2024.1473\5.02.2024.1473\obj\Debug\5.02.2024.1473.csproj.GenerateResource.cache
+C:\Users\User\source\repos\5.02.2024.1473\5.02.2024.1473\obj\Debug\5.02.2024.1473.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\5.02.2024.1473\5.02.2024.1473\obj\Debug\5.02.2024.1473.exe
+C:\Users\User\source\repos\5.02.2024.1473\5.02.2024.1473\obj\Debug\5.02.2024.1473.pdb
